@@ -1,0 +1,7 @@
+db.pwd: xxxxxxxxxxxx(updated)
+db.username:root(updated)
+db_url: localhost
+my.test.defaultprop: default value
+service.name: service-one
+
+#spring.profiles.active=test
