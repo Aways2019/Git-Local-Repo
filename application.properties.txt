@@ -1,2 +1,3 @@
-management.security.enabled=false
+my.test.defaultprop = default value
+spring.profiles.active=service-one
 
